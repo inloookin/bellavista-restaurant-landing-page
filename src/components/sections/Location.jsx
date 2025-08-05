@@ -10,7 +10,7 @@ export function Location() {
             Visit Us
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Located in the heart of the culinary district, we're easily
+            Located in the heart of the culinary district, we&apos;re easily
             accessible and ready to welcome you for an unforgettable dining
             experience
           </p>

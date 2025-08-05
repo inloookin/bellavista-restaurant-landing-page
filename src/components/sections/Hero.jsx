@@ -25,7 +25,7 @@ export function Hero() {
           <span className="block text-amber-400">Culinary Excellence</span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-200 mb-8 max-w-2xl mx-auto leading-relaxed">
-          Where passion meets perfection. Indulge in our chef's masterfully
+          Where passion meets perfection. Indulge in our chef&apos;s masterfully
           crafted dishes made with the finest ingredients in an atmosphere of
           refined elegance.
         </p>

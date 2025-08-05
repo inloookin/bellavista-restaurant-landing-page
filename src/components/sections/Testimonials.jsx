@@ -37,8 +37,8 @@ export function Testimonials() {
             What Our Guests Say
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Don't just take our word for it - hear from our valued guests about
-            their exceptional dining experiences
+            Don&apos;t just take our word for it - hear from our valued guests
+            about their exceptional dining experiences
           </p>
         </div>
 
@@ -61,7 +61,7 @@ export function Testimonials() {
 
                 {/* Content */}
                 <p className="text-gray-600 mb-6 italic">
-                  "{testimonial.content}"
+                  &quot;{testimonial.content}&quot;
                 </p>
 
                 {/* Author */}
